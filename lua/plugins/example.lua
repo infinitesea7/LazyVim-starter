@@ -187,6 +187,8 @@ return {
         "shellcheck",
         "shfmt",
         "flake8",
+        "typescript-language-server",
+        "angular-language-server",
       },
     },
   },
