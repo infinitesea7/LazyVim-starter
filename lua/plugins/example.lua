@@ -189,6 +189,8 @@ return {
         "flake8",
         "typescript-language-server",
         "angular-language-server",
+        "css-lsp",
+        "html-lsp",
       },
     },
   },
